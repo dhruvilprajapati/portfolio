@@ -9,7 +9,7 @@ function Footer() {
                     <li className="nav-item"><Link to={'/education'} className="nav-link px-2 text-muted">Education</Link></li>
                     <li className="nav-item"><Link to={'/experience'} className="nav-link px-2 text-muted">Experience</Link></li>
                 </ul>
-                <p className="text-center text-muted">© 2022 | Rohit Bhadani</p>
+                <p className="text-center text-muted">© 2022 | Dhruvil Prajapati </p>
             </footer>
         </div>
     );
