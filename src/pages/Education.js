@@ -34,9 +34,7 @@ function Education() {
                                 <div className="card-body">
                                     <h5 className="card-title fw-bold">B.Tech <span className="h6"> at SilverOak University</span></h5>
                                     <p className="mb-0">March 2020 - March 2024</p>
-                                    <small>Engineers are good at taking risks (The last night study ).
-                                    Every University has it’s own speciality and it’s own flaws.But according to our research and analysis we recommend you Chandigarh University as it is one of a kind , growing not only it’s infrastructure but also in the facilities, placement packages and is becoming an aspiring institution ,setting the paradigm for other upcoming institutions.
-                                    </small>
+                                    <small>Engineers are good at taking risks (The last night study).</small>
                                 </div>
                             </div>
                         </div>
